@@ -1,0 +1,3 @@
+- this is my first project on GitHub
+- it's a small wrapper over a standard array
+- developed by aclaez
